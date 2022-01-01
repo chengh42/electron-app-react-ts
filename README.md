@@ -38,7 +38,7 @@ Create a new Electron app with TypeScript and Webpack using the [built-in templa
 npx create-electron-app my-new-app --template=typescript-webpack
 ```
 
-Now, navigate the the project root directory, and executing:
+Now, navigate to the project root directory, and executing:
 
 ```
 npm start
