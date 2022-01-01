@@ -7,7 +7,11 @@ Electron app with React and Typescript set up using [Electron Forge](https://www
 * SASS stylesheet
 * Static assets
 
-![app](app.png)
+<img src="app.png" width="500" height="auto">
+
+## Prerequisites
+
+* [Node LTS](https://nodejs.org/en/download/)
 
 ## Development
 
